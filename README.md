@@ -3,8 +3,8 @@
 a real-time group chat app built wiht React, Node.js, Express, socket.IO and MongoDB.
 
 ##Features 
-. Join with username
-. Real-time messaging with Socket.IO
+.Join with username
+.Real-time messaging with Socket.IO
 . Chat history saved in MongoDB
 . Typing indicator
 . Auto-scroll to lates message
